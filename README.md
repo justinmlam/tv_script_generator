@@ -3,7 +3,7 @@ As part of Udacity's Deep Learning Nanodegree, I was tasked with creating an RNN
 
 
 ## Description of Project
-In this project, a Jupyter notebook was given to me with tasks to complete. To finish this project, I had to show my ability to pre-process data (embedding and tokenizing words to be used by a neural network, batching and converting the data into data loaders), building a neural network, and training the model on a GPU.
+In this project, a Jupyter notebook was given to me with tasks to complete. To finish this project, I had to show my ability to pre-process data (embedding and tokenizing words to be used by a neural network, batching and converting the data into data loaders), build a neural network, and train the model on a GPU.
 
 ## Tasks and Learning Opportunities
 There are a few sections of the project.
